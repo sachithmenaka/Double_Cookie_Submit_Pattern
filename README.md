@@ -1,4 +1,4 @@
-# IT16019300-Double-Submit-Cookie-Token-Pattern
+# Double-Submit-Cookie-Token-Pattern
 
 This project done for show how double submit cookie token pattern works and show what is the double submit cookie.
 
