@@ -11,4 +11,4 @@ For the default login,
     - Username :- user@gmail.com
     - Password :- Password
     
-For more information visit to following link :- https://medium.com/@sachithmenaka15/synchronizer-token-pattern-1b81cc4ff9c3
+For more information visit to following link :- https://medium.com/@sachithmenaka15/double-submit-cookie-pattern-4f1615d69b69
