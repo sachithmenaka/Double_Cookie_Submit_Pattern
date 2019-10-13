@@ -1,2 +1,14 @@
-# Synchronizer_Token_Pattern
-Synchronizer_Token_Pattern
+# IT16019300-Double-Submit-Cookie-Token-Pattern
+
+This project done for show how double submit cookie token pattern works and show what is the double submit cookie.
+
+This project done using by following languages
+    - php
+    - javascript
+    
+
+For the default login,
+    - Username :- user@gmail.com
+    - Password :- Password
+    
+For more information visit to following link :- https://medium.com/@sachithmenaka15/synchronizer-token-pattern-1b81cc4ff9c3
